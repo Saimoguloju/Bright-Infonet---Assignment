@@ -1,0 +1,10 @@
+1. Setup Environment
+- Install necessary packages:
+>>> pip install fastapi uvicorn sqlalchemy alembic psycopg2-binary
+
+2. Initialize the Project
+- Create a directory for your project and navigate to it:
+>>> mkdir fastapi-crud-app
+>>> cd fastapi-crud-app
+
+
